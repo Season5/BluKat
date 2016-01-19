@@ -54,11 +54,47 @@ body{
     position: relative;
     font-family: sans-serif;
     border-width:10px;
-    width: 100%;
-    font-size: 150%;
+    width: 90%;
+    font-size: 200%;
     height: auto;
     background-color: skyblue;
     color: black;
+    padding: 30px;
 
 }
+h2{
+    font-family: cursive;
+    font-feature-settings: bold italic underline large;
+    font-stretch: condensed;
+    padding-right: 85%;
+    font-size: 260%;
+        height: 50px auto;
+}
 
+h3{
+    font-size: 205%;
+    font-feature-settings: italic;
+    height: ;
+    
+}
+h6{
+     font-family: cursive;
+    font-feature-settings: bold italic underline large;
+    font-stretch:condensed;
+    padding-right: 55%;
+    font-size: 200%;
+        height: 50px auto;
+}
+#mr{
+    padding-right: 
+}
+  
+span:hover + div {
+    display: block;
+    padding-right: 20px;
+    display: inline-block;
+    
+}
+.green{
+    width: auto;
+}
