@@ -50,36 +50,15 @@ table {
 
 
 /* body */
-
 body{
-    color: mediumpurple;
-    background-color: black;
-    position:fixed;
-    padding: 15px;
-    display:inline;
-    font size:350%;
-}
-
-h1{
-   font-size: 200%;
-    color: black;
-    text-align: left;
+    position: relative;
+    font-family: sans-serif;
+    border-width:10px;
     width: 100%;
-    height: 100%;
-    background-color: purple;
-    text-align: center;
-}
-
-.head{
     font-size: 150%;
-    color: mediumpurple;
-    text-align: center;
-    width: 150% auto;
     height: auto;
-}
-
-p{
-    font size: 150%;
-    width: 60% auto;
+    background-color: skyblue;
+    color: black;
 
 }
+
