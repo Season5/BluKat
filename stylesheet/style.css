@@ -74,5 +74,6 @@ span{
     width: 80px;
     shape-inside: circle();
     align-self: auto;
+ image-resolution:80px 80px;
     object-position: left;
 }

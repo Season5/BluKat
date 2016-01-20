@@ -976,7 +976,9 @@ img {
   height: auto;
   -ms-interpolation-mode: bicubic;
   display: inline-block;
-  vertical-align: middle; }
+  vertical-align: middle;
+image-resolution: 80*80;}
+
 
 textarea {
   height: auto;
