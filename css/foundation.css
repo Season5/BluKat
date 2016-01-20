@@ -2706,9 +2706,9 @@ select {
   padding: 1rem;
   position: absolute;
   visibility: hidden;
-  width: 300px;
+  width: 70%;
   z-index: 10;
-  border-radius: 3px; }
+  border-radius: 15px; }
   .dropdown-pane.is-open {
     visibility: visible; }
 
