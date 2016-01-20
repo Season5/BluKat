@@ -74,5 +74,5 @@ span{
     width: 80px;
     shape-inside: circle();
     align-self: auto;
-
+    object-position: left;
 }
