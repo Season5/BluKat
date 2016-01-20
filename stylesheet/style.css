@@ -51,13 +51,22 @@ table {
 /*Body*/
 body{
 font-size: 250%;
-    width: ;
+    width:1000%;
+    position: absolute;
+
 }
 
 .dropdown-pane{
     width:70%;
-    display: inline-block
+    padding-right: 45px;
+    display: inline-block;
 }
 span{
     width: 45px;
+}
+
+#speaker{
+    border-width: thick;
+    width: 100%;
+    height: 20%;
 }
