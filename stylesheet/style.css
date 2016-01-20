@@ -20,7 +20,7 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 300%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -50,9 +50,14 @@ table {
 
 /*Body*/
 body{
-
+font-size: 250%;
+    width: ;
 }
 
 .dropdown-pane{
     width:70%;
+    display: inline-block
+}
+span{
+    width: 45px;
 }
