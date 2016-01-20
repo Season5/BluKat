@@ -71,5 +71,8 @@ span{
     height: 20%;
 }
 .pix{
-    width: 80 80;
+    width: 80px;
+    shape-inside: circle();
+    align-self: auto;
+
 }
