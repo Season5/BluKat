@@ -53,13 +53,14 @@ body{
 font-size: 250%;
     width:1000%;
     position: absolute;
-
+background-color: mediumpurple;
 }
 
 .dropdown-pane{
     width:70%;
     padding-right: 45px;
     display: inline-block;
+    background-color: darkorchid;
 }
 span{
     width: 45px;
@@ -69,11 +70,4 @@ span{
     border-width: thick;
     width: 100%;
     height: 20%;
-}
-.pix{
-    width: 80px;
-    shape-inside: circle();
-    align-self: auto;
- image-resolution:80px 80px;
-    object-position: left;
 }
