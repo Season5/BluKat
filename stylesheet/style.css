@@ -63,11 +63,14 @@ background-color: mediumpurple;
     background-color: darkorchid;
 }
 span{
-    width: 45px;
+    width: 30%;
 }
 
 #speaker{
     border-width: thick;
     width: 100%;
     height: 20%;
+}
+.pix{
+    border-radius: 15px;
 }
