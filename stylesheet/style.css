@@ -53,7 +53,7 @@ body{
 font-size: 250%;
     width:1000%;
     position: absolute;
-background-color: mediumpurple;
+background-color: purple;
 }
 
 .dropdown-pane{
@@ -76,4 +76,5 @@ span{
 }
 .green{
     display: inline;
+    background-color: plum;
 }
