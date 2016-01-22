@@ -79,6 +79,9 @@ span{
     display: inline;
     background-color: plum;
 }
-pixie{
+.pixie{
+    color: white;
+}
+h1, h3, h4{
     color: white;
 }
