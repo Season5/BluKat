@@ -1,9 +1,21 @@
 
-.header {
-    font-family: 'Chewy', cursive;
+header {
+    font-family: 'Covered By Your Grace', cursive;
     font-weight: 400;
     text-align: center;
+    color: white;
+
 }
 
 body {
+     background-image: url(conference-hall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    background-attachment: fixed;
+
+
+}
+h1, h3{
+    color: white;
 }
